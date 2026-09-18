@@ -1,6 +1,6 @@
 # Practice Automation UI Tests
 
-Проект по ТЗ дисциплины «Автоматизация тестирования (Java, Python)».
+Проект по дисциплине «Автоматизация тестирования (Java, Python)».
 Стек: Python 3.12+, Selenium, PyTest, Allure. Используется Page Object Model.
 
 ## Покрытие
